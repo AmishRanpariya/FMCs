@@ -6,7 +6,6 @@
 :root {
 
   --Pink: hsl(322, 100%, 66%);
-  /* ### Neutral */
   --Very-Pale-Cyan: hsl(193, 100%, 96%);
   --Verk-Dark-Cyan: hsl(192, 100%, 9%);
   --Grayish-Blue: hsl(208, 11%, 55%);
@@ -21,10 +20,6 @@
   --Body-Family: 'Open Sans',
     sans-serif;
   /* For the social icons, */
-  /* you can use a font icon library. Some suggestions can be found below:
-    - [Font Awesome](https: //fontawesome.com/)
-    - [IcoMoon](https: //icomoon.io/)
-    - [Ionicons](https: //ionicons.com/) */
 }
 
 * {
