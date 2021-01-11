@@ -14,7 +14,7 @@
 <!--#### project name-->
 
 <!--<a "website-link">-->
-<!--<img  width="100%" src="src-of descktop-preview"  alt="alt-text"/>-->
+<!--<img  width="100%" src="src-of descktop-preview"  alt="Design preview"/>-->
 <!--</a>-->
 <!--<a href="code-link">Source Code</a>-->
 
@@ -23,7 +23,7 @@
 #### Prelaunch Countdown Timer
 
 <a href="https://amishranpariya.github.io/prelaunch-countdown-timer/">
-<img  width="100%" src="https://github.com/AmishRanpariya/prelaunch-countdown-timer/blob/main/design/desktop-preview.jpg"  alt="alt-text"/>
+<img  width="100%" src="https://github.com/AmishRanpariya/prelaunch-countdown-timer/blob/master/design/mobile-design.jpg"  alt="Design preview"/>
 </a>
 <a href="https://github.com/AmishRanpariya/prelaunch-countdown-timer">Source Code</a>
 
@@ -33,19 +33,19 @@
 #### Huddle landing page with alternating feature blocks
 
 <a href="https://amishranpariya.github.io/huddle-landing-page/">
-<img  width="100%" src="https://github.com/AmishRanpariya/huddle-landing-page/blob/main/design/desktop-preview.jpg"  alt="Design preview for the Huddle landing page with alternating feature blocks coding challenge"/>
+<img  width="100%" src="https://github.com/AmishRanpariya/huddle-landing-page/blob/main/design/desktop-preview.jpg"  alt="Design preview"/>
 </a>
 <a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>
 
 ---
 
 
-<!--#### Four card feature section-->
+#### Four card feature section
 
-<!--<a href="#">-->
-<!--<img  width="100%"  src="/desktop-preview.jpg" alt="Design preview for the Four card feature section coding challenge" />-->
-<!--</a>-->
-<!--<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>-->
+<a href="#">
+<img  width="100%"  src="/desktop-preview.jpg" alt="Design preview for the Four card feature section coding challenge" />
+</a>
+<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>
 
 
 ---
