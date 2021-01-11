@@ -4,34 +4,59 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
   
 ---
-  - click on any of the images to see live demo of that perticular website
+  - click on any of the images to see live DEMO of that perticular website
 
 ---
 
 ## Here are the challenges done by me 😊
+
+
+<!--#### project name-->
+
+<!--<a "website-link">-->
+<!--<img  width="100%" src="src-of descktop-preview"  alt="alt-text"/>-->
+<!--</a>-->
+<!--<a href="code-link">Source Code</a>-->
+
+<!------->
+
+#### Prelaunch Countdown Timer
+
+<a href="https://amishranpariya.github.io/prelaunch-countdown-timer/">
+<img  width="100%" src="https://github.com/AmishRanpariya/prelaunch-countdown-timer/blob/main/design/desktop-preview.jpg"  alt="alt-text"/>
+</a>
+<a href="https://github.com/AmishRanpariya/prelaunch-countdown-timer">Source Code</a>
+
+---
+
 
 #### Huddle landing page with alternating feature blocks
 
 <a href="https://amishranpariya.github.io/huddle-landing-page/">
 <img  width="100%" src="https://github.com/AmishRanpariya/huddle-landing-page/blob/main/design/desktop-preview.jpg"  alt="Design preview for the Huddle landing page with alternating feature blocks coding challenge"/>
 </a>
-<!--<a "./huddle-landing-page-with-alternating-feature-blocks-master/design/desktop-preview.jpg"></a>-->
+<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>
 
 ---
 
-#### Four card feature section
 
-<a href="#">
-<img  width="100%"  src="./four-card-feature-section-master/design/desktop-preview.jpg" alt="Design preview for the Four card feature section coding challenge" />
-</a>
+<!--#### Four card feature section-->
+
+<!--<a href="#">-->
+<!--<img  width="100%"  src="/desktop-preview.jpg" alt="Design preview for the Four card feature section coding challenge" />-->
+<!--</a>-->
+<!--<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>-->
+
 
 ---
 
-#### Profile card component
+<!--#### Profile card component-->
 
-<a href="#">
-<img  width="100%"  src="./profile-card-component-main/design/desktop-preview.jpg" alt="Design preview for the Profile card component coding challenge" />
-</a>
+<!--<a href="#">-->
+<!--<img  width="100%"  src="/desktop-preview.jpg" alt="Design preview for the Profile card component coding challenge" />-->
+<!--</a>-->
+<!--<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>-->
+
 
 ---
 
