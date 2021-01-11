@@ -42,10 +42,10 @@
 
 #### Four card feature section
 
-<a href="#">
-<img  width="100%"  src="/desktop-preview.jpg" alt="Design preview for the Four card feature section coding challenge" />
+<a href="https://amishranpariya.github.io/four-card-feature-section/">
+<img  width="100%" src="https://github.com/AmishRanpariya/four-card-feature-section/blob/master/design/desktop-design.jpg"  alt="Design preview"/>
 </a>
-<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>
+<a href="https://github.com/AmishRanpariya/four-card-feature-section">Source Code</a>
 
 
 ---
