@@ -50,12 +50,12 @@
 
 ---
 
-<!--#### Profile card component-->
+#### Profile card component
 
-<!--<a href="#">-->
-<!--<img  width="100%"  src="/desktop-preview.jpg" alt="Design preview for the Profile card component coding challenge" />-->
-<!--</a>-->
-<!--<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>-->
+<a href="https://amishranpariya.github.io/profile-card-component/">
+<img  width="100%"  src="https://github.com/AmishRanpariya/profile-card-component/blob/main/design/mobile-design.jpg" alt="Design preview for the Profile card component coding challenge" />
+</a>
+<a href="https://github.com/AmishRanpariya/profile-card-component">Source Code</a>
 
 
 ---
