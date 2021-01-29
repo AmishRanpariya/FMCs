@@ -57,6 +57,23 @@
 </a>
 <a href="https://github.com/AmishRanpariya/profile-card-component">Source Code</a>
 
+--- 
+
+#### Loopstudios landing page
+
+<a href="https://amishranpariya.github.io/loopstudios-landing-page/">
+<img  width="100%"  src="https://github.com/AmishRanpariya/loopstudios-landing-page/blob/main/design/desktop-design.jpg" alt="Design preview for the Loopstudios landing page coding challenge" />
+</a>
+<a href="https://github.com/AmishRanpariya/loopstudios-landing-page">Source Code</a>
+
+---
+
+#### Interactive pricing component
+
+<a href="https://amishranpariya.github.io/interactive-pricing-component/">
+<img  width="100%"  src="https://github.com/AmishRanpariya/interactive-pricing-component/blob/main/design/desktop-design.jpg" alt="Design preview for the Interactive pricing component coding challenge" />
+</a>
+<a href="https://github.com/AmishRanpariya/interactive-pricing-component">Source Code</a>
 
 ---
 
