@@ -48,6 +48,15 @@
 
 ---
 
+#### Social media dashboard with theme switcher
+
+<a href="https://amishranpariya.github.io/social-media-dashboard/">
+<img  width="100%"  src="https://github.com/AmishRanpariya/interactive-pricing-component/blob/main/design/desktop-preview.jpg" alt="Social media dashboard with theme switcher" />
+</a>
+<a href="https://github.com/AmishRanpariya/social-media-dashboard">Source Code</a>
+
+---
+
 #### Interactive pricing component
 
 <a href="https://amishranpariya.github.io/interactive-pricing-component/">
