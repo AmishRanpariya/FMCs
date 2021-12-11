@@ -19,8 +19,9 @@
 #### Calculator WebApp
 
 <a href="https://calculator-amish.netlify.app/">
-<img  width="100%" src="https://github.com/AmishRanpariya/calculator_app_react/blob/master/screenshot.png"  alt="Design preview"/>
+<img  width="50%" src="https://github.com/AmishRanpariya/calculator_app_react/blob/master/screenshot.png"  alt="Design preview"/>
 </a>
+<br>
 <a href="https://calculator-amish.netlify.app/">Live preview</a> |
 <a href="https://github.com/AmishRanpariya/calculator_app_react">Source Code</a>
 
