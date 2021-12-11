@@ -1,12 +1,12 @@
 # Frontend Mentor Challenges
+
 ## Welcome! 👋
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-  
+
 ---
 
 ## Here are the challenges done by me 😊
-
 
 <!--#### project name-->
 
@@ -28,7 +28,6 @@
 
 ---
 
-
 #### Huddle landing page with alternating feature blocks
 
 <a href="https://amishranpariya.github.io/huddle-landing-page/">
@@ -37,7 +36,7 @@
 <a href="https://amishranpariya.github.io/huddle-landing-page/">Live preview</a> | 
 <a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>
 
---- 
+---
 
 #### Loopstudios landing page
 
