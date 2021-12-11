@@ -26,6 +26,16 @@
 
 ---
 
+#### Country Details App
+
+<a href="https://amishranpariya.github.io/Country_details/">
+<img  width="100%" src="https://github.com/AmishRanpariya/Country_details/blob/main/design/desktop-preview.jpg"  alt="Design preview"/>
+</a>
+<a href="https://amishranpariya.github.io/Country_details/">Live preview</a> |
+<a href="https://github.com/AmishRanpariya/Country_details">Source Code</a>
+
+---
+
 #### Base Apparel Coming soon page
 
 <a href="https://amishranpariya.github.io/base-apparel-coming-soon-page/">
