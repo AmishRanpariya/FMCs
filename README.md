@@ -1,12 +1,10 @@
 # Frontend Mentor Challenges
+
 ## Welcome! 👋
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-  
----
 
 ## Here are the challenges done by me 😊
-
 
 <!--#### project name-->
 
@@ -18,31 +16,40 @@
 
 <!------->
 
-#### Prelaunch Countdown Timer
+#### Calculator WebApp
 
-<a href="https://amishranpariya.github.io/prelaunch-countdown-timer/">
-<img  width="100%" src="https://github.com/AmishRanpariya/prelaunch-countdown-timer/blob/master/design/mobile-design.jpg"  alt="Design preview"/>
+<a href="https://calculator-amish.netlify.app/">
+<img  width="100%" src="https://github.com/AmishRanpariya/calculator_app_react/blob/master/screenshot.png"  alt="Design preview"/>
 </a>
-<a href="https://amishranpariya.github.io/prelaunch-countdown-timer/">Live preview</a> | 
-<a href="https://github.com/AmishRanpariya/prelaunch-countdown-timer">Source Code</a>
+<a href="https://calculator-amish.netlify.app/">Live preview</a> |
+<a href="https://github.com/AmishRanpariya/calculator_app_react">Source Code</a>
 
 ---
 
+#### Base Apparel Coming soon page
 
-#### Huddle landing page with alternating feature blocks
-
-<a href="https://amishranpariya.github.io/huddle-landing-page/">
-<img  width="100%" src="https://github.com/AmishRanpariya/huddle-landing-page/blob/main/design/desktop-preview.jpg"  alt="Design preview"/>
+<a href=" https://amishranpariya.github.io/base-apparel-coming-soon-page/">
+<img  width="100%" src=" https://github.com/AmishRanpariya/base-apparel-coming-soon-page/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
 </a>
-<a href="https://amishranpariya.github.io/huddle-landing-page/">Live preview</a> | 
-<a href="https://github.com/AmishRanpariya/huddle-landing-page">Source Code</a>
+<a href=" https://amishranpariya.github.io/base-apparel-coming-soon-page/">Live preview</a> |
+<a href=" https://github.com/AmishRanpariya/base-apparel-coming-soon-page">Source Code</a>
 
---- 
+---
+
+#### Clipboard Landing Page
+
+<a href="https://amishranpariya.github.io/clipboard_landing_page/">
+<img  width="100%" src=" https://github.com/AmishRanpariya/clipboard_landing_page/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
+</a>
+<a href=" https://amishranpariya.github.io/clipboard_landing_page/">Live preview</a> |
+<a href="https://github.com/AmishRanpariya/clipboard_landing_page">Source Code</a>
+
+---
 
 #### Loopstudios landing page
 
 <a href="https://amishranpariya.github.io/loopstudios-landing-page/">
-<img  width="100%"  src="https://github.com/AmishRanpariya/loopstudios-landing-page/blob/master/design/desktop-design.jpg" alt="Design preview for the Loopstudios landing page coding challenge" />
+<img  width="100%"  src="https://github.com/AmishRanpariya/loopstudios-landing-page/blob/master/design/desktop-preview.jpg" alt="Design preview for the Loopstudios landing page coding challenge" />
 </a>
 <a href="https://amishranpariya.github.io/loopstudios-landing-page/">Live preview</a> | 
 <a href="https://github.com/AmishRanpariya/loopstudios-landing-page">Source Code</a>
@@ -79,13 +86,23 @@
 
 ---
 
-#### Profile card component
+#### ChatAppUI landing page
 
-<a href="https://amishranpariya.github.io/profile-card-component/">
-<img  width="100%"  src="https://github.com/AmishRanpariya/profile-card-component/blob/main/design/mobile-design.jpg" alt="Design preview for the Profile card component coding challenge" />
+<a href=" https://amishranpariya.github.io/chatAppUI/">
+<img  width="100%" src=" https://github.com/AmishRanpariya/chatAppUI/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
 </a>
-<a href="https://amishranpariya.github.io/profile-card-component/">Live preview</a> | 
-<a href="https://github.com/AmishRanpariya/profile-card-component">Source Code</a>
+<a href=" https://amishranpariya.github.io/chatAppUI/">Live preview</a> |
+<a href=" https://github.com/AmishRanpariya/chatAppUI">Source Code</a>
+
+---
+
+#### Prelaunch Countdown Timer
+
+<a href="https://amishranpariya.github.io/prelaunch-countdown-timer/">
+<img  width="100%" src="https://github.com/AmishRanpariya/prelaunch-countdown-timer/blob/master/design/desktop-design.jpg"  alt="Design preview"/>
+</a>
+<a href="https://amishranpariya.github.io/prelaunch-countdown-timer/">Live preview</a> | 
+<a href="https://github.com/AmishRanpariya/prelaunch-countdown-timer">Source Code</a>
 
 ---
 
