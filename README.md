@@ -28,20 +28,20 @@
 
 #### Base Apparel Coming soon page
 
-<a href=" https://amishranpariya.github.io/base-apparel-coming-soon-page/">
-<img  width="100%" src=" https://github.com/AmishRanpariya/base-apparel-coming-soon-page/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
+<a href="https://amishranpariya.github.io/base-apparel-coming-soon-page/">
+<img  width="100%" src="https://github.com/AmishRanpariya/base-apparel-coming-soon-page/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
 </a>
-<a href=" https://amishranpariya.github.io/base-apparel-coming-soon-page/">Live preview</a> |
-<a href=" https://github.com/AmishRanpariya/base-apparel-coming-soon-page">Source Code</a>
+<a href="https://amishranpariya.github.io/base-apparel-coming-soon-page/">Live preview</a> |
+<a href="https://github.com/AmishRanpariya/base-apparel-coming-soon-page">Source Code</a>
 
 ---
 
 #### Clipboard Landing Page
 
 <a href="https://amishranpariya.github.io/clipboard_landing_page/">
-<img  width="100%" src=" https://github.com/AmishRanpariya/clipboard_landing_page/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
+<img  width="100%" src="https://github.com/AmishRanpariya/clipboard_landing_page/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
 </a>
-<a href=" https://amishranpariya.github.io/clipboard_landing_page/">Live preview</a> |
+<a href="https://amishranpariya.github.io/clipboard_landing_page/">Live preview</a> |
 <a href="https://github.com/AmishRanpariya/clipboard_landing_page">Source Code</a>
 
 ---
@@ -88,11 +88,11 @@
 
 #### ChatAppUI landing page
 
-<a href=" https://amishranpariya.github.io/chatAppUI/">
-<img  width="100%" src=" https://github.com/AmishRanpariya/chatAppUI/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
+<a href="https://amishranpariya.github.io/chatAppUI/">
+<img  width="100%" src="https://github.com/AmishRanpariya/chatAppUI/blob/master/design/desktop-preview.jpg"  alt="Design preview"/>
 </a>
-<a href=" https://amishranpariya.github.io/chatAppUI/">Live preview</a> |
-<a href=" https://github.com/AmishRanpariya/chatAppUI">Source Code</a>
+<a href="https://amishranpariya.github.io/chatAppUI/">Live preview</a> |
+<a href="https://github.com/AmishRanpariya/chatAppUI">Source Code</a>
 
 ---
 
